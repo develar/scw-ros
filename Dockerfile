@@ -1,3 +1,3 @@
 FROM scratch
 
-COPY ./patches/rootfs/ /
+COPY ./rootfs/ /
